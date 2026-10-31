@@ -1,0 +1,341 @@
+{
+  "format": 1,
+  "models": [
+    {
+      "name": "Story writer",
+      "repo": "unsloth/Qwen3-4B-Instruct-2507-bnb-4bit",
+      "revision": "f12db89cd5156e090618dded9b4367f23f8f3b33",
+      "license": "apache-2.0",
+      "marker": "local_models/writer_v2/download_manifest.json",
+      "files": [
+        {
+          "path": "local_models/writer_v2/README.md",
+          "relative": "README.md",
+          "url": "https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-bnb-4bit/resolve/f12db89cd5156e090618dded9b4367f23f8f3b33/README.md",
+          "size": 9044,
+          "sha256": "50d158ac1a088bc5eb09052edd32c461cb7e981facc8961b35f836411d4bfdb0"
+        },
+        {
+          "path": "local_models/writer_v2/added_tokens.json",
+          "relative": "added_tokens.json",
+          "url": "https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-bnb-4bit/resolve/f12db89cd5156e090618dded9b4367f23f8f3b33/added_tokens.json",
+          "size": 707,
+          "sha256": "c0284b582e14987fbd3d5a2cb2bd139084371ed9acbae488829a1c900833c680"
+        },
+        {
+          "path": "local_models/writer_v2/chat_template.jinja",
+          "relative": "chat_template.jinja",
+          "url": "https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-bnb-4bit/resolve/f12db89cd5156e090618dded9b4367f23f8f3b33/chat_template.jinja",
+          "size": 4040,
+          "sha256": "40c21f34cf67d8c760ef72f8ad3ae5afad514299d4b06e91dd9a8d705af7b541"
+        },
+        {
+          "path": "local_models/writer_v2/config.json",
+          "relative": "config.json",
+          "url": "https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-bnb-4bit/resolve/f12db89cd5156e090618dded9b4367f23f8f3b33/config.json",
+          "size": 2185,
+          "sha256": "d344b5e322cface882e8ce8f7093db80b3e17552926df51a95338256d699d18e"
+        },
+        {
+          "path": "local_models/writer_v2/generation_config.json",
+          "relative": "generation_config.json",
+          "url": "https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-bnb-4bit/resolve/f12db89cd5156e090618dded9b4367f23f8f3b33/generation_config.json",
+          "size": 237,
+          "sha256": "1f004e485215f7431b0747a5f8f38576fef7ceb2fcdadc836619105d03ea1a86"
+        },
+        {
+          "path": "local_models/writer_v2/merges.txt",
+          "relative": "merges.txt",
+          "url": "https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-bnb-4bit/resolve/f12db89cd5156e090618dded9b4367f23f8f3b33/merges.txt",
+          "size": 1671853,
+          "sha256": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5"
+        },
+        {
+          "path": "local_models/writer_v2/model.safetensors",
+          "relative": "model.safetensors",
+          "url": "https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-bnb-4bit/resolve/f12db89cd5156e090618dded9b4367f23f8f3b33/model.safetensors",
+          "size": 2653133894,
+          "sha256": "f632ab95da1d8f307237094aca7c7dfa9e416b6d2f87bdd8ecda6dadfedb204d"
+        },
+        {
+          "path": "local_models/writer_v2/special_tokens_map.json",
+          "relative": "special_tokens_map.json",
+          "url": "https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-bnb-4bit/resolve/f12db89cd5156e090618dded9b4367f23f8f3b33/special_tokens_map.json",
+          "size": 614,
+          "sha256": "b5acd1507cb3a3539e63369cb4a2b675a599cf13afe62282d371518288967797"
+        },
+        {
+          "path": "local_models/writer_v2/tokenizer.json",
+          "relative": "tokenizer.json",
+          "url": "https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-bnb-4bit/resolve/f12db89cd5156e090618dded9b4367f23f8f3b33/tokenizer.json",
+          "size": 11422654,
+          "sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4"
+        },
+        {
+          "path": "local_models/writer_v2/tokenizer_config.json",
+          "relative": "tokenizer_config.json",
+          "url": "https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-bnb-4bit/resolve/f12db89cd5156e090618dded9b4367f23f8f3b33/tokenizer_config.json",
+          "size": 9653,
+          "sha256": "acf5987d4c4b056ce50b9157705d406acf55b015e70523d718e670a92262607f"
+        },
+        {
+          "path": "local_models/writer_v2/vocab.json",
+          "relative": "vocab.json",
+          "url": "https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-bnb-4bit/resolve/f12db89cd5156e090618dded9b4367f23f8f3b33/vocab.json",
+          "size": 2776833,
+          "sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910"
+        }
+      ]
+    },
+    {
+      "name": "Comic artwork",
+      "repo": "hlhc/FLUX.2-klein-4B-bnb-4bit",
+      "revision": "199c1411ab9dc4111e9fe7e8e3dc3fc4e63c2648",
+      "license": "apache-2.0",
+      "marker": "local_models/klein/download_manifest.json",
+      "files": [
+        {
+          "path": "local_models/klein/LICENSE.md",
+          "relative": "LICENSE.md",
+          "url": "https://huggingface.co/hlhc/FLUX.2-klein-4B-bnb-4bit/resolve/199c1411ab9dc4111e9fe7e8e3dc3fc4e63c2648/LICENSE.md",
+          "size": 9584,
+          "sha256": "ca02bc51900ab07789d1b70283329e7137f5af98f5161c23a1c81fc38a4af1fe"
+        },
+        {
+          "path": "local_models/klein/README.md",
+          "relative": "README.md",
+          "url": "https://huggingface.co/hlhc/FLUX.2-klein-4B-bnb-4bit/resolve/199c1411ab9dc4111e9fe7e8e3dc3fc4e63c2648/README.md",
+          "size": 1393,
+          "sha256": "7b5c2dc130c8651e583899fe3d7054be16dcb39a7403c7aef7446e5bded53d70"
+        },
+        {
+          "path": "local_models/klein/model_index.json",
+          "relative": "model_index.json",
+          "url": "https://huggingface.co/hlhc/FLUX.2-klein-4B-bnb-4bit/resolve/199c1411ab9dc4111e9fe7e8e3dc3fc4e63c2648/model_index.json",
+          "size": 493,
+          "sha256": "17272022f05cd2ae570e9b4c060a13f075334a4620fb543e350e35c410598524"
+        },
+        {
+          "path": "local_models/klein/scheduler/scheduler_config.json",
+          "relative": "scheduler/scheduler_config.json",
+          "url": "https://huggingface.co/hlhc/FLUX.2-klein-4B-bnb-4bit/resolve/199c1411ab9dc4111e9fe7e8e3dc3fc4e63c2648/scheduler/scheduler_config.json",
+          "size": 481,
+          "sha256": "846dc37e8947e2d976f2623b8722d52b271e09746bb7f0a2b3abcc8cf2ce9630"
+        },
+        {
+          "path": "local_models/klein/text_encoder/config.json",
+          "relative": "text_encoder/config.json",
+          "url": "https://huggingface.co/hlhc/FLUX.2-klein-4B-bnb-4bit/resolve/199c1411ab9dc4111e9fe7e8e3dc3fc4e63c2648/text_encoder/config.json",
+          "size": 2074,
+          "sha256": "2852474ab50d0b2e89b0cbf3604212f0894a3e284445cf4d23e0c2f48d18f08b"
+        },
+        {
+          "path": "local_models/klein/text_encoder/generation_config.json",
+          "relative": "text_encoder/generation_config.json",
+          "url": "https://huggingface.co/hlhc/FLUX.2-klein-4B-bnb-4bit/resolve/199c1411ab9dc4111e9fe7e8e3dc3fc4e63c2648/text_encoder/generation_config.json",
+          "size": 214,
+          "sha256": "893b0dccf83626cdfdc498e5b2a255a935b4c3c693350aed18f7003c1a3f3de9"
+        },
+        {
+          "path": "local_models/klein/text_encoder/model.safetensors",
+          "relative": "text_encoder/model.safetensors",
+          "url": "https://huggingface.co/hlhc/FLUX.2-klein-4B-bnb-4bit/resolve/199c1411ab9dc4111e9fe7e8e3dc3fc4e63c2648/text_encoder/model.safetensors",
+          "size": 2653133899,
+          "sha256": "343a6e1fa77194b4fcc9e8a336ea18159c73c54cd223c35d50090c05f827a135"
+        },
+        {
+          "path": "local_models/klein/tokenizer/chat_template.jinja",
+          "relative": "tokenizer/chat_template.jinja",
+          "url": "https://huggingface.co/hlhc/FLUX.2-klein-4B-bnb-4bit/resolve/199c1411ab9dc4111e9fe7e8e3dc3fc4e63c2648/tokenizer/chat_template.jinja",
+          "size": 4168,
+          "sha256": "a55ee1b1660128b7098723e0abcd92caa0788061051c62d51cbe87d9cf1974d8"
+        },
+        {
+          "path": "local_models/klein/tokenizer/tokenizer.json",
+          "relative": "tokenizer/tokenizer.json",
+          "url": "https://huggingface.co/hlhc/FLUX.2-klein-4B-bnb-4bit/resolve/199c1411ab9dc4111e9fe7e8e3dc3fc4e63c2648/tokenizer/tokenizer.json",
+          "size": 11422650,
+          "sha256": "be75606093db2094d7cd20f3c2f385c212750648bd6ea4fb2bf507a6a4c55506"
+        },
+        {
+          "path": "local_models/klein/tokenizer/tokenizer_config.json",
+          "relative": "tokenizer/tokenizer_config.json",
+          "url": "https://huggingface.co/hlhc/FLUX.2-klein-4B-bnb-4bit/resolve/199c1411ab9dc4111e9fe7e8e3dc3fc4e63c2648/tokenizer/tokenizer_config.json",
+          "size": 377,
+          "sha256": "1689852cc9c45010de040c8302a8acdc0d2c4c6c740dd7e9dd0a8c704e16eada"
+        },
+        {
+          "path": "local_models/klein/transformer/config.json",
+          "relative": "transformer/config.json",
+          "url": "https://huggingface.co/hlhc/FLUX.2-klein-4B-bnb-4bit/resolve/199c1411ab9dc4111e9fe7e8e3dc3fc4e63c2648/transformer/config.json",
+          "size": 999,
+          "sha256": "f2400a4d74d68c4808c0ef0934a2b0fe74b8c9e26011fbdba53b553ea9d270e3"
+        },
+        {
+          "path": "local_models/klein/transformer/diffusion_pytorch_model.safetensors",
+          "relative": "transformer/diffusion_pytorch_model.safetensors",
+          "url": "https://huggingface.co/hlhc/FLUX.2-klein-4B-bnb-4bit/resolve/199c1411ab9dc4111e9fe7e8e3dc3fc4e63c2648/transformer/diffusion_pytorch_model.safetensors",
+          "size": 1999511936,
+          "sha256": "cef148dda6860f07a7ffd83b47fb4feec4980c9bc5067f3087fb933a9778ba3b"
+        },
+        {
+          "path": "local_models/klein/vae/config.json",
+          "relative": "vae/config.json",
+          "url": "https://huggingface.co/hlhc/FLUX.2-klein-4B-bnb-4bit/resolve/199c1411ab9dc4111e9fe7e8e3dc3fc4e63c2648/vae/config.json",
+          "size": 952,
+          "sha256": "5d89c61a16d600b369ccdd476cca97abf276143d9311d0584e6c16704daef136"
+        },
+        {
+          "path": "local_models/klein/vae/diffusion_pytorch_model.safetensors",
+          "relative": "vae/diffusion_pytorch_model.safetensors",
+          "url": "https://huggingface.co/hlhc/FLUX.2-klein-4B-bnb-4bit/resolve/199c1411ab9dc4111e9fe7e8e3dc3fc4e63c2648/vae/diffusion_pytorch_model.safetensors",
+          "size": 168120878,
+          "sha256": "ca70d2202afe6415bdbcb8793ba8cd99fd159cfe6192381504d6c4d3036e0f04"
+        }
+      ]
+    },
+    {
+      "name": "Expressive voices",
+      "repo": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "revision": "0c0e3051f131929182e2c023b9537f8b1c68adfe",
+      "license": "apache-2.0",
+      "marker": "local_models/emotional_voice/download_manifest.json",
+      "files": [
+        {
+          "path": "local_models/emotional_voice/README.md",
+          "relative": "README.md",
+          "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice/resolve/0c0e3051f131929182e2c023b9537f8b1c68adfe/README.md",
+          "size": 57846,
+          "sha256": "64f65e809b51cc0c35f393fbbfcc2d735c0cb3fdbbc6f3fdc4a5e6ce55e9d088"
+        },
+        {
+          "path": "local_models/emotional_voice/config.json",
+          "relative": "config.json",
+          "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice/resolve/0c0e3051f131929182e2c023b9537f8b1c68adfe/config.json",
+          "size": 4908,
+          "sha256": "17a07f527a1c25ea30b4e023a184482a23d3e279d697b1dc81b1bde498d29cf9"
+        },
+        {
+          "path": "local_models/emotional_voice/generation_config.json",
+          "relative": "generation_config.json",
+          "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice/resolve/0c0e3051f131929182e2c023b9537f8b1c68adfe/generation_config.json",
+          "size": 245,
+          "sha256": "f1b90b4513f3b34c62851049e2492d7b4c5940daf1276f89c82b8ef04127f3aa"
+        },
+        {
+          "path": "local_models/emotional_voice/merges.txt",
+          "relative": "merges.txt",
+          "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice/resolve/0c0e3051f131929182e2c023b9537f8b1c68adfe/merges.txt",
+          "size": 1671839,
+          "sha256": "599bab54075088774b1733fde865d5bd747cbcc7a547c5bc12610e874e26f5e3"
+        },
+        {
+          "path": "local_models/emotional_voice/model.safetensors",
+          "relative": "model.safetensors",
+          "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice/resolve/0c0e3051f131929182e2c023b9537f8b1c68adfe/model.safetensors",
+          "size": 3833402552,
+          "sha256": "38b1d5971bdbd982b561cccec982669a53b0537c3cf5e9bd4778ed07bb2f5137"
+        },
+        {
+          "path": "local_models/emotional_voice/preprocessor_config.json",
+          "relative": "preprocessor_config.json",
+          "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice/resolve/0c0e3051f131929182e2c023b9537f8b1c68adfe/preprocessor_config.json",
+          "size": 127,
+          "sha256": "efdde1022ea9d76928bf7a9cd53139138f5ba2e466e837f08f6105ab1af1c119"
+        },
+        {
+          "path": "local_models/emotional_voice/speech_tokenizer/config.json",
+          "relative": "speech_tokenizer/config.json",
+          "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice/resolve/0c0e3051f131929182e2c023b9537f8b1c68adfe/speech_tokenizer/config.json",
+          "size": 2336,
+          "sha256": "ee65bb901c876664ab8707c487157aa1a6ee57c65969b28fb5ec9dc211e68167"
+        },
+        {
+          "path": "local_models/emotional_voice/speech_tokenizer/configuration.json",
+          "relative": "speech_tokenizer/configuration.json",
+          "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice/resolve/0c0e3051f131929182e2c023b9537f8b1c68adfe/speech_tokenizer/configuration.json",
+          "size": 76,
+          "sha256": "6bc26d64eb5024b4d1dab5a52371958b429256d6c9d59787f1f5294a54e0cebd"
+        },
+        {
+          "path": "local_models/emotional_voice/speech_tokenizer/model.safetensors",
+          "relative": "speech_tokenizer/model.safetensors",
+          "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice/resolve/0c0e3051f131929182e2c023b9537f8b1c68adfe/speech_tokenizer/model.safetensors",
+          "size": 682293092,
+          "sha256": "836b7b357f5ea43e889936a3709af68dfe3751881acefe4ecf0dbd30ba571258"
+        },
+        {
+          "path": "local_models/emotional_voice/speech_tokenizer/preprocessor_config.json",
+          "relative": "speech_tokenizer/preprocessor_config.json",
+          "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice/resolve/0c0e3051f131929182e2c023b9537f8b1c68adfe/speech_tokenizer/preprocessor_config.json",
+          "size": 234,
+          "sha256": "fcb3805e597e786d4067706e602f6688524640f8d3396790e2e09b5942fcbdfb"
+        },
+        {
+          "path": "local_models/emotional_voice/tokenizer_config.json",
+          "relative": "tokenizer_config.json",
+          "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice/resolve/0c0e3051f131929182e2c023b9537f8b1c68adfe/tokenizer_config.json",
+          "size": 7344,
+          "sha256": "dc3c31c3bdaedd5016382bb3cbe07323026775ad51f5a4fb564505992ae4a670"
+        },
+        {
+          "path": "local_models/emotional_voice/vocab.json",
+          "relative": "vocab.json",
+          "url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice/resolve/0c0e3051f131929182e2c023b9537f8b1c68adfe/vocab.json",
+          "size": 2776833,
+          "sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910"
+        }
+      ]
+    },
+    {
+      "name": "Artwork reviewer",
+      "repo": "ollama/qwen3-vl",
+      "revision": "84f7ed8042fa7cdbd902f7dcb7d0370e032095047cc3244179f263b77b5bc318",
+      "license": "Apache-2.0",
+      "files": [
+        {
+          "path": "local_models/vision_models/blobs/sha256-a67151e7009487ea73bb4377d878c1e3d89f19c8ae05422d76e86935e3273fa6",
+          "url": "https://registry.ollama.ai/v2/library/qwen3-vl/blobs/sha256:a67151e7009487ea73bb4377d878c1e3d89f19c8ae05422d76e86935e3273fa6",
+          "size": 206,
+          "sha256": "a67151e7009487ea73bb4377d878c1e3d89f19c8ae05422d76e86935e3273fa6"
+        },
+        {
+          "path": "local_models/vision_models/blobs/sha256-3a859c4dca6883593e389a08987f04762f2a374d475cabc1538360473a72b1da",
+          "url": "https://registry.ollama.ai/v2/library/qwen3-vl/blobs/sha256:3a859c4dca6883593e389a08987f04762f2a374d475cabc1538360473a72b1da",
+          "size": 2497888288,
+          "sha256": "3a859c4dca6883593e389a08987f04762f2a374d475cabc1538360473a72b1da"
+        },
+        {
+          "path": "local_models/vision_models/blobs/sha256-70ac570fd36b65a64fbb99883c34d5196368c1cf8f63d8402802a34a0ed2b363",
+          "url": "https://registry.ollama.ai/v2/library/qwen3-vl/blobs/sha256:70ac570fd36b65a64fbb99883c34d5196368c1cf8f63d8402802a34a0ed2b363",
+          "size": 839325760,
+          "sha256": "70ac570fd36b65a64fbb99883c34d5196368c1cf8f63d8402802a34a0ed2b363"
+        },
+        {
+          "path": "local_models/vision_models/blobs/sha256-7339fa418c9ad3e8e12e74ad0fd26a9cc4be8703f9c110728a992b193be85cb2",
+          "url": "https://registry.ollama.ai/v2/library/qwen3-vl/blobs/sha256:7339fa418c9ad3e8e12e74ad0fd26a9cc4be8703f9c110728a992b193be85cb2",
+          "size": 11355,
+          "sha256": "7339fa418c9ad3e8e12e74ad0fd26a9cc4be8703f9c110728a992b193be85cb2"
+        },
+        {
+          "path": "local_models/vision_models/blobs/sha256-f6417cb1e26962991f8e875a93f3cb0f92bc9b4955e004881251ccbf934a19d2",
+          "url": "https://registry.ollama.ai/v2/library/qwen3-vl/blobs/sha256:f6417cb1e26962991f8e875a93f3cb0f92bc9b4955e004881251ccbf934a19d2",
+          "size": 42,
+          "sha256": "f6417cb1e26962991f8e875a93f3cb0f92bc9b4955e004881251ccbf934a19d2"
+        }
+      ]
+    }
+  ],
+  "python": {
+    "url": "https://github.com/astral-sh/python-build-standalone/releases/download/20261026/cpython-3.12.16%2B20261026-x86_64-pc-windows-msvc-install_only.tar.gz",
+    "sha256": "590dfcbe3a34c07301e6332e13e2188b98655cd072b08afa45a7998dc4c22bc5",
+    "size": 47113364
+  },
+  "ollama": {
+    "url": "https://github.com/ollama/ollama/releases/download/v0.40.13/ollama-windows-amd64.zip",
+    "sha256": "7afa38624fa62ee5d8293422d0ab084c1bb4603134c7f4dafce11a033b57cc19",
+    "size": 1601969847
+  },
+  "reviewer_manifest_path": "local_models/vision_models/manifests/registry.ollama.ai/library/qwen3-vl/4b-instruct-q4_K_M",
+  "download_bytes": 17007768106
+}
