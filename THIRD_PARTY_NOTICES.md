@@ -24,4 +24,4 @@ The installer contains a PyInstaller-frozen standard-library/Tk launcher, the ap
 
 The pinned files and model revisions are recorded in model-manifest.json. Model license/readme files are downloaded with the corresponding model when provided upstream. The registered model descriptions and model weights remain the property of their respective authors.
 
-Windows fonts are read from the user's Windows installation, not redistributed. Demo prompts use original characters; no third-party superhero artwork is packaged. Users are responsible for rights to their own inputs and exported projects.
+Windows fonts are read from the user's Windows installation, not redistributed. The README gallery includes user-created AI fan-art demonstrations featuring Superman and Batman. These characters and related marks belong to their respective rights holders; no affiliation or endorsement is implied. The MIT license for application code does not grant rights to those characters, marks or demo artwork. The Windows installer does not bundle the gallery. Users are responsible for rights to their own inputs and exported projects.
